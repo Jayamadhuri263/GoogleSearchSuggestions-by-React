@@ -1,0 +1,25 @@
+.suggestion-item {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+  list-style-type: none;
+}
+
+.para {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin: 0;
+}
+
+.arrow-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.arrow {
+  height: 20px;
+  width: 20px;
+}
